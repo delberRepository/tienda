@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.0-beta.2','translation-revision-date'=>'2022-04-11 11:32:25+0000','plural-forms'=>'nplurals=2; plural=n != 1;','project-id-version'=>'Plugins - Block Slider &#8211; Responsive Image Slider, Video Slider &amp; Post Slider - Stable (latest release)','language'=>'es','messages'=>['Block Slider'=>'Bloque de carrusel']];
