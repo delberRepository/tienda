@@ -46,3 +46,11 @@ Incluye:
 5. Importa el archivo `.sql` con la base de datos del proyecto.
 6. Inicia XAMPP (Apache y MySQL) 
 7. Ve a : http://localhost/wordpress/
+
+
+<img width="1331" height="604" alt="Captura de pantalla 2025-09-02 a las 18 16 16" src="https://github.com/user-attachments/assets/a4cfd011-f21d-4a68-a053-111b2090a8df" />
+<img width="1108" height="607" alt="Captura de pantalla 2025-09-02 a las 18 16 38" src="https://github.com/user-attachments/assets/b84dc5a7-25f8-4bd4-8dda-cd921d91b54c" />
+<img width="1257" height="609" alt="Captura de pantalla 2025-09-02 a las 18 17 19" src="https://github.com/user-attachments/assets/6a09b0f2-9e08-44ce-bc84-e218e4eacd7e" />
+
+
+
