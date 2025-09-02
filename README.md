@@ -4,7 +4,7 @@ Este repositorio contiene un sitio WordPress desarrollado localmente usando **XA
 El proyecto simula una tienda online con fines de aprendizaje y portfolio profesional.
 
 ---
-
+<img width="1338" height="616" alt="Captura de pantalla 2025-09-02 a las 18 15 58" src="https://github.com/user-attachments/assets/cc294486-24ad-4afd-b570-7bc9f7496fd6" />
 ## 🚀 Tecnologías utilizadas
 
 - WordPress 6.x
